@@ -3,11 +3,11 @@ import { TAQContent } from './content-types'
 export const defaultContent: TAQContent = {
   hero: {
     title: 'System Jakości Wieprzowiny TAQ',
-    subtitle: 'Tradycja i Jakość – od pola do stołu'
+    subtitle: 'Od pola do stołu'
   },
   introduction: {
-    title: 'Wprowadzenie',
-    content: 'System Jakości Wieprzowiny „TAQ" (Tradycja i Jakość) został stworzony w odpowiedzi na rosnące oczekiwania konsumentów poszukujących mięsa wieprzowego o wyjątkowych walorach smakowych, odżywczych i sensorycznych. System ten gwarantuje produkcję wieprzowiny wysokiej jakości, opartą na tradycji hodowlanej i rygorystycznych zasadach obejmujących cały łańcuch produkcyjny – „od pola do stołu". Jego celem jest dostarczenie konsumentom i przetwórcom surowca o stałych, pożądanych parametrach, produkowanego w sposób zrównoważony i etyczny.'
+    title: 'Tradycja i Jakość',
+    content: 'System Jakości Wieprzowiny „TAQ" (Tradition and Quality) został stworzony w odpowiedzi na rosnące oczekiwania konsumentów poszukujących mięsa wieprzowego o wyjątkowych walorach smakowych, odżywczych i sensorycznych. System ten gwarantuje produkcję wieprzowiny wysokiej jakości, opartą na tradycji hodowlanej i rygorystycznych zasadach obejmujących cały łańcuch produkcyjny – „od pola do stołu". Jego celem jest dostarczenie konsumentom i przetwórcom surowca o stałych, pożądanych parametrach, produkowanego w sposób zrównoważony i etyczny.'
   },
   pillars: {
     pillar1: {
