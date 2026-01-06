@@ -10,6 +10,10 @@ const projectRoot = process.env.PROJECT_ROOT || import.meta.dirname
 
 // https://vite.dev/config/
 export default defineConfig({
+  // Set base path for GitHub Pages deployment
+  // For repository 'taq', the site will be at https://mic-hnk.github.io/taq/
+  // Can be overridden with BASE_PATH environment variable
+  base: process.env.BASE_PATH || '/taq/',
   plugins: [
     react(),
     tailwindcss(),
