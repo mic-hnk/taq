@@ -95,10 +95,10 @@ export const defaultContent: TAQContent = {
     organization: {
       name: 'Stowarzyszenie Polska Tradycja Smaku',
       address: 'Mościbrody 52, 08-112 Wiśniew',
-      email: 'polskatradycjasmaku@gmail.com'
+      email: 'biuro@polskatradycjasmaku.pl'
     },
     certificationBodies: {
-      title: 'Jednostki certyfikujące działające w ramach System Jakości Wieprzowiny „TAQ" (Tradycja i Jakość)',
+      title: 'Jednostki certyfikujące działające w ramach Systemu Jakości Wieprzowiny „TAQ" (Tradycja i Jakość)',
       bodies: [
         {
           name: 'Jednostka Certyfikująca Centrum Jakości AgroEko Sp. z o.o.',
